@@ -1,6 +1,6 @@
-# 🌟 Raj Da Dhaba 🌟
+# 🌟 Raj Da Dhaba Ordering System 🌟
 
-Welcome to **Raj Da Dhaba**! 🎉 This project serves as a unique platform to explore the fusion of culinary delights and innovative coding practices. 🍽️💻
+Welcome to **Raj Da Dhaba Ordering System**! 🎉 This project serves as a unique platform to explore the fusion of culinary delights and innovative coding practices. 🍽️💻
 
 ## 📚 Table of Contents
 - [Project Description](#project-description)
@@ -16,7 +16,7 @@ Welcome to **Raj Da Dhaba**! 🎉 This project serves as a unique platform to ex
 ---
 
 ## 🍜 Project Description
-**Raj Da Dhaba** is an open-source project designed for food lovers and tech enthusiasts alike! 🌍 This platform not only provides a catalog of mouth-watering recipes but also allows users to contribute their own culinary creations, ensuring a vibrant community of foodies. 🍳 Whether you're a chef, a home cook, or someone who just loves food, this project is for you!
+**Raj Da Dhaba Ordering System** is an open-source project designed for food lovers and tech enthusiasts alike! 🌍 This platform not only provides a catalog of mouth-watering recipes but also allows users to contribute their own culinary creations, ensuring a vibrant community of foodies. 🍳 Whether you're a chef, a home cook, or someone who just loves food, this project is for you!
 
 ## 🌈 Features
 - **Extensive Recipe Catalog:** Discover a wide variety of recipes from different cuisines! 🌐
@@ -26,16 +26,16 @@ Welcome to **Raj Da Dhaba**! 🎉 This project serves as a unique platform to ex
 - **Responsive Design:** Access the platform from any device—desktop, tablet, or mobile! 📱💻
 
 ## 🚀 Installation
-To get started with **Raj Da Dhaba**, follow these steps:
+To get started with **Raj Da Dhaba Ordering System**, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Raj010505/raj-da-dhaba.git
+   git clone https://github.com/Raj010505/Raj-Da-Dhaba-Ordering-System.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd raj-da-dhaba
+   cd Raj-Da-Dhaba-Ordering-System
    ```
 
 3. **Install dependencies:**
@@ -65,7 +65,7 @@ To run the application locally:
 3. **Open your web browser** and go to `http://localhost:8080` to access the application. 🌐
 
 ## 🤝 Contributing
-We welcome contributions from the community! 💖 To contribute to **Raj Da Dhaba**, please follow these steps:
+We welcome contributions from the community! 💖 To contribute to **Raj Da Dhaba Ordering System**, please follow these steps:
 
 1. **Fork the repository.**
 2. **Create your feature branch:**
@@ -98,9 +98,9 @@ If you use or modify this code in your projects, please credit **Raj Dubey** and
 For questions, suggestions, or feedback, feel free to reach out:
 - Email: dubey.raj2005@gmail.com
 - Phone: +91 70213 49793
-- Linkendin: https://www.linkedin.com/in/ShadowCipher
-- LeetCode: https://leetcode.com/ShadowCipher
-- Portfolio: https://raj-two.vercel.app/
+- LinkedIn: [Raj Dubey](https://www.linkedin.com/in/ShadowCipher)
+- LeetCode: [ShadowCipher](https://leetcode.com/ShadowCipher)
+- Portfolio: [Raj's Portfolio](https://raj-two.vercel.app/)
 - GitHub: [Raj010505](https://github.com/Raj010505)
 
 ## 🎉 Acknowledgments
@@ -108,4 +108,4 @@ A big thank you to everyone who has contributed to this project and the open-sou
 
 ---
 
-Thank you for checking out **Raj Da Dhaba**! 🌟 We hope you enjoy your culinary journey with us. Happy cooking! 🍽️❤️
+Thank you for checking out **Raj Da Dhaba Ordering System**! 🌟 We hope you enjoy your culinary journey with us. Happy cooking! 🍽️❤️
