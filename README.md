@@ -103,6 +103,12 @@ For questions, suggestions, or feedback, feel free to reach out:
 - Portfolio: [Raj's Portfolio](https://raj-two.vercel.app/)
 - GitHub: [Raj010505](https://github.com/Raj010505)
 
+Partner
+
+Reisha:- https://github.com/Reisha15
+
+Raj:- https://github.com/Raj010505
+
 ## 🎉 Acknowledgments
 A big thank you to everyone who has contributed to this project and the open-source community! 🙏 Your efforts help make the world a better place.
 
